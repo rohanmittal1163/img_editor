@@ -6,7 +6,7 @@ This Image editor allows users to edit their photos and memories with help of va
 brightness, hue-rotate, contrast, saturation, sepia, blur, grayscale, inversion,rotation</b> and as well facilitate the <b>flip property</b>.<br>
 This is a frontend web project with minimal requirements. Hope you liked it.
 
-# ⚜ DEMO
+# ⚜ DEMO  -- https://imgeditr1163.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/97821844/232277624-cd316d1a-f2f8-4cc0-a7a2-3bac15ebe880.png)
 ![image](https://user-images.githubusercontent.com/97821844/232277686-f39c0183-9a9c-4360-bb1f-941cdaa6963a.png)
